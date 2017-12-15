@@ -5,7 +5,7 @@
 **Hybridization detection using phylogenetic invariants.**
 
 This is a legacy C++ version of the program HyDe. Users are encouraged
-to use the more up-to-date Python package (>= v0.4.0): [HyDe](https::/github.com/pblischak/HyDe).
+to use the more up-to-date Python package (>= v0.4.0): [HyDe](https://github.com/pblischak/HyDe).
 We don't plan to update this package, but are keeping it here for users who may have
 started using it.
 
