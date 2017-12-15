@@ -1,0 +1,7 @@
+*.o
+hyde_cpp
+*.dSYM
+*.txt
+test
+dlib
+.DS_Store
